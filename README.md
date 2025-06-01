@@ -39,7 +39,17 @@ Clear Property Details – Provide comprehensive information for informed decisi
 Color Styles : 
 header-color : (#34967c) 
 
-
 Typography : 
 front family : Inter 
-font weight : 400 
+font weight : 400
+
+Project Roles and Responsibilities:
+The Product Owner defines what to build, while the Scrum Master ensures how (process efficiency).
+
+Frontend & Backend Developers collaborate to integrate UI with APIs.
+
+Designers & QA ensure the product is both visually appealing and bug-free.
+
+DevOps enables seamless deployment, while the Project Manager keeps everything on schedule.
+
+Each role is crucial in delivering a high-quality, user-friendly booking system on time and within budget.
