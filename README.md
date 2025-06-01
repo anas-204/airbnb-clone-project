@@ -53,3 +53,8 @@ Designers & QA ensure the product is both visually appealing and bug-free.
 DevOps enables seamless deployment, while the Project Manager keeps everything on schedule.
 
 Each role is crucial in delivering a high-quality, user-friendly booking system on time and within budget.
+
+UI Component Patterns :
+- Navbar 
+- Body
+- Footer 
