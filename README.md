@@ -35,3 +35,11 @@ User-Friendly Interface – Ensure intuitive navigation for seamless booking.
 Efficient Property Discovery – Allow users to easily browse and filter listings.
 
 Clear Property Details – Provide comprehensive information for informed decisions.
+
+Color Styles : 
+header-color : (#34967c) 
+
+
+Typography : 
+front family : Inter 
+font weight : 400 
